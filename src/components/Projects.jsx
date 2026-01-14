@@ -21,7 +21,7 @@ const Projects = ({ darkMode }) => {
       tech: ['Next.js', 'Tailwind CSS', 'Firebase', 'Cloudinary', 'Netlify',],
       gradient: 'from-green-500 to-emerald-500',
       image: '/projects/smartshoot.png',
-      live: 'https://smartshoot.netlify.app/',
+      live: 'https://macroframes.netlify.app/',
       github: 'https://github.com/sayantanpandey/smart-shoot',
       period: 'Sept 2025 - Oct 2025',
       highlights: ['Next.js 13 App Router architecture',
